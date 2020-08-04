@@ -1,4 +1,3 @@
-import app_secrets
 from flask import Flask, render_template, redirect, url_for, request, jsonify, g, session
 from flask_bootstrap import Bootstrap
 from flask_socketio import SocketIO
